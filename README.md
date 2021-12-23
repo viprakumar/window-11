@@ -1,2 +1,3 @@
-# window-11
-window 11 it is made of html it just like a window
+# windows-11
+This is a recreation of Windows 11 by me!
+Inspired by Blue Edge's Windows 11.
